@@ -1,0 +1,43 @@
+.item{
+    box-sizing: border-box;
+    color: white;
+    background: #34495E;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1244px;
+    padding: 20px 50px;
+    margin: 70px 0px 0px 0px;
+    font-size: 25px;
+}
+
+.count{
+    display: flex;
+    flex-direction: row;
+    font-size: 25px;
+    gap: 20px;
+    align-items: center;
+
+}
+
+.btnCount{
+    height: 50px;
+    width: 50px;
+    font-size: 35px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.btn{
+    border: 2px solid black;
+    background: #FC7171;
+    border-radius: 50%;
+    font-size: 25px;
+    font-weight: 400;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: -145px;
+    left: 1215px;
+}
